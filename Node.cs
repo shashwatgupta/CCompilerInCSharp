@@ -8,6 +8,7 @@ namespace CCompiler
 {
     public class Node
     {
+        //Test
         public string NodeValue;
 
         public string NodeType;
